@@ -35,3 +35,4 @@ async def get_profile(input: InputProfile) -> str:
         return profile
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
+

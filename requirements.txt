@@ -13,3 +13,4 @@ chromadb
 unstructured[md]
 hypercorn
 uvicorn
+llama_parse

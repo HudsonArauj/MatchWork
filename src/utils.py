@@ -55,24 +55,23 @@ def get_s3_object(content):
         except Exception as e:
             raise HTTPException(status_code=500, detail=f"Erro ao acessar o arquivo: {str(e)}")
 
+def extract_pdf_text(bucket_content: bytes) -> str:
+    """
+    Extrai o texto de um arquivo PDF.
 
-# def extract_pdf_text(bucket_content: bytes) -> str:
-#     """
-#     Extrai o texto de um arquivo PDF.
+    Args:
+        bucket_content (bytes): Conteúdo do arquivo PDF em bytes.
 
-#     Args:
-#         bucket_content (bytes): Conteúdo do arquivo PDF em bytes.
-
-#     Returns:
-#         str: Texto extraído do PDF, com cada página separada por uma nova linha.
-#     """
+    Returns:
+        str: Texto extraído do PDF, com cada página separada por uma nova linha.
+    """
     
-#     reader = PdfReader(BytesIO(bucket_content))
-#     return '\n'.join(page.extract_text() for page in reader.pages)
+    reader = PdfReader(BytesIO(bucket_content))
+    return '\n'.join(page.extract_text() for page in reader.pages)
 
 
-def extract_cv(bucket_content):
-    content = BytesIO(bucket_content)
+def extract_cv(path):
+    
     parsingInstructionsInterviewer = """
         O documento a seguir é um currículode um possível candidato em busca de vagas.
         No documento, haverá uma seção contendo as Experiências do candidato e outra contendo as Atividades Extracurriculares dele.
@@ -80,13 +79,13 @@ def extract_cv(bucket_content):
     """
 
     llamaparse = LlamaParse(parsing_instruction=parsingInstructionsInterviewer, result_type="markdown")
-    parsed_result = llamaparse.get_json_result(content)
+    parsed_result = llamaparse.get_json_result(path)
 
     content_curriculo = "\n".join([md["md"] for md in parsed_result[0]['pages']])
 
     return content_curriculo
 
-def generate_questions(bucket_content: bytes):
+def generate_questions(path):
 
     messages = [
         (
@@ -103,7 +102,7 @@ def generate_questions(bucket_content: bytes):
     chat_model = llm.with_structured_output(Topics)
 
     chain_structured = prompt | chat_model
-    response = chain_structured.invoke({"curriculum":extract_cv(bucket_content)})
+    response = chain_structured.invoke({"curriculum":extract_cv(path)})
     
     messages = [
     (
