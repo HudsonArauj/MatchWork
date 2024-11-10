@@ -7,15 +7,71 @@ from langchain_groq import ChatGroq
 
 from src.schemas import Topics, Subjetivas, InputProfile
 
+from io import BytesIO
+from PyPDF2 import PdfReader
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_core.output_parsers import StrOutputParser
-
+import boto3
+from fastapi import HTTPException
 import nest_asyncio  # noqa: E402
+from botocore.exceptions import NoCredentialsError, PartialCredentialsError, ClientError
+
 nest_asyncio.apply()
 
 llm = ChatGroq(temperature=0.3, model_name="llama-3.1-70b-versatile")
 
+
+
+
+def get_s3_object(content):
+    """
+    Obtém o conteúdo de um arquivo armazenado no bucket S3 com base na chave do arquivo.
+
+    Args:
+        content (dict): Dicionário contendo informações sobre o conteúdo, incluindo a chave do arquivo (`fileKey`).
+
+    Returns:
+        bytes: Conteúdo do arquivo em bytes.
+
+    Raises:
+        HTTPException: Caso ocorra um erro ao acessar o arquivo no S3.
+    """
+
+    if content.get('fileKey'):
+        try:
+            session = boto3.Session()
+            s3_client = session.client('s3')
+            content_bucket = s3_client.get_object(
+                Bucket="adapta-momentum",
+                Key=content['fileKey']
+            )['Body'].read()
+            return content_bucket
+        except NoCredentialsError:
+            raise HTTPException(status_code=500, detail="Credenciais inválidas")
+        except PartialCredentialsError:
+            return HTTPException(status_code=500, detail="Credenciais parciais")
+        except ClientError as e:
+            raise HTTPException(status_code=500, detail=f"Erro de cliente: {str(e)}")
+        except Exception as e:
+            raise HTTPException(status_code=500, detail=f"Erro ao acessar o arquivo: {str(e)}")
+
+def extract_pdf_text(bucket_content: bytes) -> str:
+    """
+    Extrai o texto de um arquivo PDF.
+
+    Args:
+        bucket_content (bytes): Conteúdo do arquivo PDF em bytes.
+
+    Returns:
+        str: Texto extraído do PDF, com cada página separada por uma nova linha.
+    """
+    
+    reader = PdfReader(BytesIO(bucket_content))
+    return '\n'.join(page.extract_text() for page in reader.pages)
+
+
 def extract_cv(path):
+    
     parsingInstructionsInterviewer = """
         O documento a seguir é um currículode um possível candidato em busca de vagas.
         No documento, haverá uma seção contendo as Experiências do candidato e outra contendo as Atividades Extracurriculares dele.
