@@ -11,4 +11,5 @@ llama_parse
 fastembed
 chromadb
 unstructured[md]
+uvicorn
 
