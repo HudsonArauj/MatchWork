@@ -16,19 +16,14 @@ class Topics(BaseModel):
     activities: List[Activity]
     projects: List[Activity]
 
-class Question(BaseModel):
-    question: str = Field(description="Question for the candidate")
-    target: List[str] = Field(description="topics the question expects to cover.")
-
-
 class Subjetivas(BaseModel):
-    question1: Question
-    question2: Question
-    question3: Question
+    question1: str = Field(description="Question for the candidate")
+    question2: str = Field(description="Question for the candidate")
+    question3: str = Field(description="Question for the candidate")
 
 
 class RespostasSub(BaseModel):
-    questao: Question
+    questao: str = Field(description="Question for the candidate")
     resposta: str
 
 class InputProfile(BaseModel):
