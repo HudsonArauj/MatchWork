@@ -1,0 +1,13 @@
+Resumo demográfico: David Gomes, 20 anos, brasileiro, solteiro, residente no Jd. Piratininga, Osasco, SP.
+
+Resumo da formação: Cursando o 3° semestre de Análise e Desenvolvimento de Sistemas na Universidade Anhanguera, com previsão de conclusão em dezembro/2025.
+
+Resumo profissional: Experiência em projetos Java utilizando as bibliotecas Java.util e Java.awt para criar um gerenciador de fila. Aplicação de Inteligências Artificiais como Árvore de Decisão, Regressão Logística e Naive-Bayes em Python. Iniciante em Ciência de Dados.
+
+Resumo de cursos extracurriculares: Design de Games 2D pela Fundação Bradesco Unidade Osasco, com conhecimento intermediário em design de games e Adobe Illustrator. Design e Modelagem de Games pela Saga Unidade Lapa, com conhecimento intermediário em design de games, montagem de briefings detalhados, design de personagens, design de cenários e implementação via Unreal Engine. Curso de Inglês Avançado pela Skill Unidade Rochdale.
+
+Resumo de experiência profissional: Operador de Loja na Americanas S.A., em contrato temporário de 8/04/2022 a 18/04/2022. Responsável pelo atendimento ao cliente, descarga de remessa, limpeza e organização do estabelecimento.
+
+Resumo geral: David é um profissional comunicativo, com bom relacionamento interpessoal, proativo e com disposição para aprender e exercer novas funções. Possui experiência em projetos Java e aplicação de Inteligências Artificiais, além de conhecimento em design de games e inglês avançado. Atualmente cursando Análise e Desenvolvimento de Sistemas, busca uma oportunidade na área de TI/Administrativa.
+
+Total de palavras: 235.

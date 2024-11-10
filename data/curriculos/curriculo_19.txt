@@ -1,0 +1,18 @@
+Resumo demográfico: Diogo Fernandes, à procura de uma oportunidade de trabalho na área de T.I. Contato: [email protected]
+
+Resumo da formação: 
+- Anhembi Morumbi - Análise e Desenvolvimento de Sistemas
+- SENAI - Desenvolvedor Full-Stack
+- SENAI - Java
+- SENAI - Python
+- ITB - Publicidade
+
+Resumo profissional: 
+- Freelancer, São Paulo - Desenvolvedor Frontend (atual)
+   - Projeto: Quiz Homem-Aranha - Desenvolvimento de jogo interativo utilizando ReactJS, JavaScript e Figma.
+   - Projeto: Jogo RPG-Textual - Desenvolvimento de RPG textual com ReactJS, JavaScript e Figma.
+
+Resumo de premiações: Nenhuma informação fornecida.
+
+Resumo geral: 
+Diogo Fernandes é uma desenvolvedora frontend com experiência em projetos utilizando ReactJS, JavaScript e Figma. Possui formação em Análise e Desenvolvimento de Sistemas, além de cursos de desenvolvimento full-stack, Java e Python. Atualmente, trabalha como freelancer, desenvolvendo jogos interativos e RPGs textuais. Diogo busca novas oportunidades para aplicar suas habilidades e contribuir para o sucesso da empresa. Possui conhecimentos sólidos em JavaScript, ReactJS, Figma e Git/GitHub. É uma profissional dedicada, com habilidades de resolução de problemas e trabalho em equipe. Contato: [email protected]

@@ -1,0 +1,11 @@
+Resumo demográfico: Nelson Oliveira, desenvolvedor Back-End Java, residente em São Paulo, Brasil. Contato: E-mail: gabrielferreirasouto.com@gmail.com, Telefone: (11) 99614-4246. Links profissionais: LinkedIn: Gabriel Ferreira | GitHub: devgferr eira (github.com).
+
+Resumo da formação: Ensino Médio completo pelo Professor Sebastião de Souza Bueno em 2021. Atualmente cursando Análise e Desenvolvimento de Sistemas na Estácio.
+
+Resumo profissional: Experiência como Jovem Aprendiz - Desenvolvedor Full Stack na ClearSale, de 2021 a 2023. Trabalhei com tecnologias como C#, Vue, JavaScript e SQL Server, realizando manutenção e implementação de projetos internos, seguindo as melhores práticas de codificação.
+
+Resumo de premiações: Nenhuma informação fornecida.
+
+Resumo geral: Desenvolvedor Java apaixonado por tecnologia, com experiência em Kafka, Rabbit, Java, SpringBoot, SQL Server, MongoDB, MySql, Microservices, JUnit, Docker, git e github, e Scrum/Kanban. Sempre em busca de aprimorar minhas habilidades e conhecimentos através de projetos pessoais e cursos. Meu objetivo profissional é encontrar uma posição como Desenvolvedor Back-End Java.
+
+Habilidades técnicas: Java, SpringBoot, SQL Server, MongoDB, MySql, JUnit, git e github, Kafka, Rabbit, Microservices, Docker e Scrum/Kanban.

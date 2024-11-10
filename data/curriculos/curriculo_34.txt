@@ -1,0 +1,20 @@
+Resumo demográfico: Diana Carvalho, 25 anos, residente em São José dos Campos, SP, Brasil. Contato: eduardofonteneleifce@gmail.com, Whatsapp: +55 85 997548412, LinkedIn: linkedin.com/in/fonteneleeduardo.
+
+Resumo da formação: 
+- Pré-Vestibular Farias Brito, Curso Pré-Vestibular, Jan. de 2018 - Dez. de 2020.
+- Instituto Tecnológico de Aeronáutica, Bacharel em Engenharia Aeroespacial, Jan. de 2021 - presente.
+- Instituto Federal de Ciência e Tecnologia do Ceará, Técnico em Edificações, Maio de 2015 - Nov. de 2017.
+
+Resumo profissional:
+- Membro da Equipe de Foguetemodelismo do ITA, Março de 2021 - presente. Responsável pela coordenação em equipe para criação de códigos de simulação computacional do lançamento de foguetes de sondagem, escritos em Python e em Julia. Elaboração de propostas e relatórios para modificações de projetos.
+- Membro do Grupo de Estudos de Cybersecurity do ITA, Março de 2021 - presente. Participação em aprendizado e discussões sobre segurança cibernética, além de treinamentos para competições CTF's.
+- Membro do Grupo de Desenvolvimento de Software do ITA, Março de 2021 - presente. Introdução ao desenvolvimento de jogos e softwares, participação em maratonas de programação e na Olimpíada Brasileira de Informática (OBI).
+
+Resumo de premiações:
+- Medalha de ouro na Olimpíada Brasileira de Astronomia e Astronáutica (2017).
+- Medalha de prata na Olimpíada Brasileira de Física das Escolas Públicas (2017).
+- Medalha de bronze na Olimpíada Canguru de Matemática (2018).
+
+Resumo geral: Futura engenheira aeroespacial, entusiasta de astronomia e astronáutica. Cursar o ITA foi um sonho pelo qual batalhei por 4 anos. Tenho experiência em coordenação de equipe, simulação computacional e segurança cibernética. Possuo habilidades em Python, Julia e Markdown, além de ser proativa e ter liderança. Fluente em inglês (nível B2). Busco oportunidades para aplicar meus conhecimentos e contribuir para o avanço da área aeroespacial.
+
+Total de palavras: 285.

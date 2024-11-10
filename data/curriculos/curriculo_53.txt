@@ -1,0 +1,11 @@
+Resumo demográfico: Fábio Martins, residente em [cidade, estado, país], com idade de [idade]. Contato: [telefone] e e-mail: [e-mail].
+
+Resumo da formação: Cursando Engenharia de Software na FIAP, no período de 2023 a 2027. Possui conhecimentos em HTML, CSS, React, Angular, Python, Fast API, Java, Spring Boot, JavaScript, Axios, Docker, MongoDB, Git, GitLab e SourceTree. Certificado no Bootcamp StartFuture e no curso FullStack Java pela EBA C.
+
+Resumo profissional: Experiência em projetos arquitetados em parceria com a faculdade para empresas como IBM, Heiz e Microsoft. Desenvolveu a home screen e a parte do backend para o funcionamento de um projeto para a IBM sobre Smart City. Também participou do projeto para a Heiz e Microsoft, desenvolvendo a landing page com Angular e construção de API em Python. Participou do Bootcamp StartFuture como desenvolvedor Full Stack, utilizando React e Python, com habilidades em criação de telas usando React, consumo de API com Axios, utilização de Style Components, TypeScript, SQL, criação de APIs e Dockerização do sistema.
+
+Resumo de premiações: Nenhuma informação fornecida.
+
+Resumo geral: Fábio Martins é um estudante de Engenharia de Software com conhecimentos em diversas linguagens de programação e ferramentas de automação e integração contínua. Possui experiência em projetos acadêmicos e trabalhos em equipe, com foco em soluções criativas e inovadoras para problemas tecnológicos. Tem habilidades de comunicação e capacidade para explicar conceitos técnicos de forma clara e objetiva. Demonstra interesse e capacidade de aprendizado constante, buscando se manter atualizado sobre as novas tecnologias e tendências do mercado.
+
+Observações: O currículo resumido possui 250 palavras.

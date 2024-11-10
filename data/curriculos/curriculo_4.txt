@@ -1,0 +1,9 @@
+Resumo demográfico: Ana Costa, 17 anos, residente em Manaira, João Pessoa-PB. Contato: (83) 99985-5454, e-mail: alvarodecarvalho20@gmail.com.
+
+Resumo da formação: Atualmente cursando Ciências da Computação na UNIPE, com previsão de conclusão em 2025. Também realizando curso livre de inglês no CNA e curso de Desenvolvedor Full Stack Python na EBAC.
+
+Resumo profissional: Experiência como desenvolvedor Front End, com habilidades em PHP, Python, MySQL, pre-processadores CSS, Bootstrap, Java, Vue.js, React e React Native. Conhecimento em boas práticas de desenvolvimento, como o modelo SMACSS e BEM. Projetos desenvolvidos disponíveis no perfil do GitHub.
+
+Resumo de premiações: Nenhuma informação fornecida.
+
+Resumo geral: Busco atuar como desenvolvedor full-stack, com foco em projetos web. Sou estudante de Ciências da Computação, com experiência em desenvolvimento Front End e conhecimento em diversas linguagens e tecnologias. Tenho habilidades em PHP, Python, MySQL, Bootstrap, entre outras. Além disso, possuo conhecimento em boas práticas de desenvolvimento e estou sempre em busca de aprimoramento. Tenho um perfil no GitHub onde compartilho meus projetos desenvolvidos. Sou dedicada, proativa e estou sempre em busca de novos desafios na área de desenvolvimento.

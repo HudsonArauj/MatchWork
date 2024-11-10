@@ -1,0 +1,11 @@
+Resumo demográfico: Laura Cardoso, residente em Jundiaí - SP, com telefone (11) 94202-1158 e e-mail gustavoantunes018@gmail.com.
+
+Resumo da formação: Possui formação em Analise e Desenvolvimento de Sistemas pela UNIP. Além disso, realizou cursos como Formação .NET Developer pela DIO (96 horas), C# Do Basico ao Proficional pela UDEMY (36 horas) e Administração de Banco de dados SQL pela Fundação Bradesco (15 horas).
+
+Resumo profissional: Atuou como Desenvolvedor de Sites Comerciais como autônomo de fevereiro de 2023 a novembro de 2023. Possui habilidades em desenvolvimento em C# .NET POO, C# WinForms, desenvolvimento web, Bootstrap, JS/CSS, administração de banco de dados (MSSQL), Git, GitLab, Terraform, AWS Cloud, Windows/Linux e TPC/IP - SSH - NFS - DNS.
+
+Resumo de premiações: Não foram mencionadas premiações ou certificados.
+
+Resumo geral: Laura é um profissional dedicado com sólido conjunto de habilidades em lógica de programação, programação orientada a objetos (POO) em C#, banco de dados relacional SQL e desenvolvimento web. Possui certificados em lógica de programação e C# POO .NET. Tem experiência prática em versionamento de código usando Git/GitHub e no desenvolvimento web com JavaScript, HTML e CSS. Possui proficiência em ferramentas Microsoft Windows e pacote Office. Possui CNH categoria A/B e está disponível para áreas diversas relacionadas à Tecnologia da Informação (TI). É entusiasmado em aplicar suas habilidades em um ambiente de trabalho dinâmico, aprender continuamente e contribuir para o sucesso da equipe e da organização.
+
+Resumo geral: Laura Cardoso é um desenvolvedor de sites comerciais autônomo com formação em Analise e Desenvolvimento de Sistemas. Possui habilidades em C# .NET POO, C# WinForms, desenvolvimento web, administração de banco de dados e diversas outras tecnologias. É um profissional dedicado, com certificados em lógica de programação e C# POO .NET. Tem experiência prática em versionamento de código e desenvolvimento web. Está disponível para áreas relacionadas à TI e busca contribuir para o sucesso da equipe e da organização.

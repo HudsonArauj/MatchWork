@@ -1,0 +1,23 @@
+Resumo demográfico: 
+Nome: Rodrigo Gomes 
+Idade: 16 anos 
+Cidade/Estado: São Paulo - SP 
+Telefone: (11) 97082-3268 
+E-mail: jonygabriel2011@gmail.com 
+
+Resumo da formação: 
+- Bacharelado em Ciência e Tecnologia (BC&T) - Universidade Federal do ABC (UFABC) - 2023/2026 
+- Bacharelado em Engenharia de Informação - Universidade Federal do ABC (UFABC) - 2023/2028 
+
+Resumo profissional: 
+- Estagiário na empresa :upd8 (abril de 2023 - setembro 2023) 
+  - Amazon Web Services (AWS) 
+  - Computação em nuvem (Cloud Computing) 
+  - Solução de serviços e resolução em diversos ambientes 
+  - Utilização de diversos bancos de dados (MySQL, PostgreSQL e DynamoDB) 
+
+Resumo de premiações: 
+- Nenhuma premiação mencionada 
+
+Resumo geral: 
+Rodrigo Gomes é um estudante dedicado e determinado, atualmente cursando Bacharelado em Ciência e Tecnologia e Bacharelado em Engenharia de Informação na Universidade Federal do ABC (UFABC). Durante seu estágio na empresa :upd8, ele adquiriu experiência em Amazon Web Services (AWS), computação em nuvem e solução de serviços em diversos ambientes. Além disso, ele possui conhecimento em bancos de dados como MySQL, PostgreSQL e DynamoDB. Rodrigo também possui certificações em Gestão Financeira pelo Sebrae, Estratégia de Negócios pela Fundação Bradesco, AWS Cloud Practitioner pela AWS e Google Data Analytics Professional Certificate. Ele é fluente em inglês, possui conhecimentos intermediários em francês e habilidades em Microsoft Office, análise de dados, análise financeira, redação, multitasking, SQL, Python, R, CSS, HTML e JavaScript. Com seu objetivo de construir uma carreira sólida e bem-sucedida, Rodrigo está em busca de oportunidades para aplicar seus conhecimentos e habilidades.

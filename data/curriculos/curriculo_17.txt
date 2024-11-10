@@ -1,0 +1,9 @@
+Resumo demográfico: Tomás Dias, 19 anos, residente em São Bernardo do Campo, Brasil. Contato: (11) 97289-7446, e-mail: gustavogentofanti.pro@gmail.com.
+
+Resumo da formação: Bacharelado em Ciência da Computação pela Universidade Federal do ABC, com previsão de conclusão em setembro de 2027. Ensino Médio completo na Escola Técnica Estadual de São Bernardo do Campo. Certificação em Inglês - Nível Intermediário pela Wise Up.
+
+Resumo profissional: Experiência como estagiário, com habilidades em Back-end, análise de dados e banco de dados. Realização de projetos de desenvolvimento de aplicações web utilizando Spring, Django, MySQL e NoSQL. Certificações em Java e Python. Conhecimento avançado em Git e Github. Familiaridade com metodologia ágil. Proativo, empático e trabalho bem em equipe. Experiência em bancos de dados relacionais e não-relacionais. Conhecimento em UI/UX.
+
+Resumo de premiações: Nenhuma informação fornecida.
+
+Resumo geral: Tomás Dias é um estudante de Ciência da Computação com experiência em desenvolvimento Back-end, análise de dados e banco de dados. Possui certificações em Java e Python, além de habilidades avançadas em Git e Github. É proativo, empático e trabalha bem em equipe. Tem conhecimento em bancos de dados relacionais e não-relacionais, além de familiaridade com metodologia ágil. Busca oportunidades para aplicar seus conhecimentos e contribuir para projetos desafiadores.

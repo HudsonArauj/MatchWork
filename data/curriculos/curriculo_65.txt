@@ -1,0 +1,23 @@
+Resumo demográfico: 
+- Nome: Júlia Carvalho
+- Idade: Não fornecido
+- Cidade: São Paulo
+- Estado: São Paulo
+- País: Brasil
+- Telefone: 11959444166
+- E-mail: rafa548017@gmail.com
+- LinkedIn: www.linkedin.com/in/faelcosta
+
+Resumo da formação: 
+- Curso Superior de Tecnologia em Defesa Cibernética na FIAP (janeiro de 2022 - dezembro de 2024)
+- Python & Dados na Let's Code (julho de 2022 - novembro de 2022)
+- Cybersecurity Essentials na Cisco Networking Academy (junho de 2022 - outubro de 2022)
+- Curso Técnico em Tecnologia da Informação no Senac Brasil (maio de 2021 - março de 2022)
+- Aprendizagem profissional no Senac Brasil (fevereiro de 2019 - junho de 2020)
+
+Resumo profissional: 
+- Estagiário de segurança da Informação na Input Center (outubro de 2022 - presente)
+- Jovem Aprendiz no Banco Santander (janeiro de 2019 - junho de 2020)
+
+Resumo geral: 
+Júlia Carvalho é um estudante de Defesa Cibernética na FIAP, com habilidades em pentest, blue team e red team. Ela possui experiência como estagiário de segurança da Informação na Input Center, onde prestou suporte aos analistas na administração de ambientes computacionais e definição de arquitetura tecnológica para segurança da informação. Anteriormente, atuou como Jovem Aprendiz no Banco Santander, onde realizou atividades relacionadas a rotinas administrativas e atendimento ao público. Júlia é pró-ativa, possui facilidade de adaptação e está sempre disposta a aprender coisas novas. Ela está cursando Técnico em Informática no Senac Brasil, adquirindo conhecimentos em hardware, redes de computadores e em breve, programação web e desktop. Júlia busca por uma oportunidade de estágio na área da tecnologia para aplicar suas habilidades e adquirir novas competências. Ela é fluente em inglês intermediário.
