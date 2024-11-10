@@ -8,3 +8,7 @@ faiss-cpu
 PyPDF2
 python-docx
 llama_parse
+fastembed
+chromadb
+unstructured[md]
+
