@@ -1,0 +1,26 @@
+Resumo demográfico: 
+Nome: Maria Santos
+Idade: [Idade]
+Cidade: [Cidade]
+Estado: [Estado]
+País: [País]
+Telefone: [Telefone]
+E-mail: [E-mail]
+
+Resumo da formação: 
+- Bacharelado em Ciência da Computação, Insper
+- Curso de Digital Design, Saga
+- Bacharelado em Música, Instituto Musical Souza Lima
+
+Resumo profissional: 
+- Estagiário Criativo na DPZ&T, agência de publicidade brasileira, responsável pela produção de anúncios para empresas como McDonald's, Itaú e Vivo. Participação em brainstormings de publicidade, auxílio em design digital e relacionamento B2B e B2C para o desenvolvimento de anúncios.
+- Engenheiro de Software e Banco de Dados na PGW Pay, empresa focada em gestão de pagamentos, projeção financeira e soluções de recebimento.
+- Engenheiro de Dados na Banstur, empresa do mercado de turismo com 32 anos de tradição, especializada em oferecer acomodações em mais de 800 hotéis no Brasil.
+- Produtor de Vídeo Digital na Klubi, primeiro consórcio digital fintech do Brasil.
+- Freelancer em produção de vídeo digital e gerenciamento de mídias sociais na Innove Agência, agência que gerencia as redes sociais de restaurantes e bares.
+
+Resumo de premiações: 
+- McDonald's McBot Case: "O Guitarrista Sumiu!"
+
+Resumo geral: 
+Sou um estudante graduando independente e autodidata, com habilidades comprovadas em negociação, criação e marketing. Possuo experiência em agências de publicidade, empresas de tecnologia e turismo, além de atuar como freelancer em produção de vídeo e gerenciamento de mídias sociais. Tenho formação em Ciência da Computação, Digital Design e Música, o que me proporciona uma visão multidisciplinar e criativa. Sou fluente em inglês, espanhol e português. Além disso, tenho interesse em música e gastronomia. Estou em busca de oportunidades para aplicar minhas habilidades e contribuir para o crescimento de uma empresa.

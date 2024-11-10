@@ -1,0 +1,22 @@
+Resumo demográfico: 
+Nome: Gustavo Rocha 
+Idade: Não fornecido 
+Cidade: São Paulo 
+Estado: São Paulo 
+País: Brasil 
+Telefone: (11) 99256-9035 
+E-mail: cpsenha@gmail.com 
+
+Resumo da formação: 
+- Bacharelado em Ciência da Computação na Pontifícia Universidade Católica de São Paulo, com previsão de conclusão em dezembro de 2025. Atualmente cursando o 4º semestre. 
+
+Resumo profissional: 
+- Voluntário no programa Google Product Experts desde novembro de 2020. Atuo como Expert em Produtos do Google, auxiliando os usuários no Fórum da Comunidade a resolverem problemas relacionados aos serviços da empresa, como Google Play, Google Adsense, Android e YouTube. 
+- Experiência em HTML, CSS, JS, Git e Bootstrap. 
+- Habilidades em melhoria de processos. 
+
+Resumo de premiações: 
+- Reconhecido pelo Google por participar do Programa Google Product Experts em 2021 como voluntário. 
+
+Resumo geral: 
+Sou estudante de Ciência da Computação com paixão pela tecnologia e facilidade em aprender sobre seu funcionamento. Meu objetivo profissional é facilitar a vida das pessoas e tornar os sistemas mais ágeis e intuitivos. Além da minha formação acadêmica, tenho buscado constantemente me atualizar através de cursos nas áreas de programação, desenvolvimento de software e jogos. Também tenho interesse em idiomas, como francês e espanhol, e já possuo fluência em inglês. Como voluntário no programa Google Product Experts, tenho a oportunidade de ajudar os usuários a resolverem problemas relacionados aos produtos do Google. Tenho habilidades em HTML, CSS, JS, Git e Bootstrap, além de experiência em melhoria de processos. Estou sempre em busca de novos desafios e oportunidades para crescer profissionalmente. Meu portfólio pode ser encontrado em gwbrtech.com e meu perfil completo está disponível no LinkedIn.

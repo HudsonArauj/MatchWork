@@ -1,0 +1,11 @@
+Resumo demográfico: Vanessa Martins, residente em São Paulo, SP, com telefone de contato 11-98584-0164 e e-mail talesitf@al.insper.edu.br. Perfil do LinkedIn disponível em https://www.linkedin.com/in/tales-ivalque/.
+
+Resumo da formação: Bacharelado em Engenharia da Computação pelo Insper Instituto de Ensino e Pesquisa, com previsão de conclusão em junho de 2026. Ensino Médio realizado no Colégio Farias Brito Pré-Vestibular.
+
+Resumo profissional: Experiência como Desenvolvedor Auxiliar no Insper, onde participei da transição de formato de código da plataforma de ensino de Desenvolvimento de Software da instituição. Atuei como Professor de Programação na COMU, lecionando a matéria de Desenvolvimento de Software para alunos da faculdade. Também tive a oportunidade de estagiar na Hyperlocal como Estagiário de Produtos, facilitando o trabalho entre equipes de desenvolvimento e gerência através da documentação das APIs utilizadas nos projetos.
+
+Resumo de premiações: Participação em Olimpíadas Científicas e Competições de Robótica, com destaque para 3 ouros e 2 pratas na OBA, 1 ouro e 2 pratas na OBI, 1 ouro e 1 prata na OBR, além de menções honrosas em outras competições. Também fui Orador Internacional no QUANTA, responsável por traduzir e transmitir o discurso do representante da delegação brasileira.
+
+Resumo geral: Possuo habilidades avançadas em linguagens de programação como Python, C, Java, CSS, HTML e Javascript, além de conhecimentos intermediários em React, Dart e SQL. Tenho experiência com o pacote Office, incluindo Word, PowerPoint e Excel, e conhecimentos básicos em Power BI. Destaco minha participação como Coordenador do Projeto Capacete VR - Biotech Insper, onde liderei a criação de um dispositivo que une o uso de Eletroencefalogramas e Capacetes de realidade virtual. Também atuei como Analista Júnior no Núcleo de Finanças Insper, realizando estudos de mercado e desenvolvendo algoritmos de predição para compra e venda de ativos. Sou membro de projetos no Insper Mileage, onde desenvolvo e mantenho o site da entidade, além de trabalhar na telemetria de um carro elétrico.
+
+Com uma sólida formação acadêmica, experiência profissional diversificada e premiações em competições, busco oportunidades para aplicar meus conhecimentos e contribuir para o crescimento de uma empresa.

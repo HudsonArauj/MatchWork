@@ -1,0 +1,20 @@
+Resumo demográfico: 
+Patrícia Rodrigues, 23 anos, residente em São Paulo, Brasil. Contato: +55 11 99683 0904, e-mail: samueljabescc@gmail.com. Perfil no LinkedIn: linkedin.com/in/samueljcc.
+
+Resumo da formação: 
+Bacharel em Engenharia da Computação pelo Insper Instituto de Ensino e Pesquisa, com previsão de formatura em julho de 2027. Média geral de 9,87/10.
+
+Resumo profissional: 
+- Pesquisador CNPq: Projeto aprovado e bolsa concedida pelo Conselho Nacional de Desenvolvimento Científico e Tecnológico para desenvolver um Estudo Comparativo de Modelos de Sistemas de Recomendação Baseados em Aprendizado por Reforço (agosto de 2023 - em andamento).
+- Curso de Aprendizado de Máquina: Concluiu um programa integrado de aprendizado de máquina disponível na plataforma Coursera, em parceria com a DeepLearning.AI e a Universidade de Stanford. O programa abordou tópicos como aprendizado supervisionado, algoritmos avançados de aprendizado, aprendizado não supervisionado, sistemas de recomendação e aprendizado por reforço (julho de 2023 - agosto de 2023).
+- Curso de Introdução à Ciência da Computação: Realizou um curso online disponível no Coursera - USP, onde aprendeu conceitos básicos de programação com Python, estruturas de dados e introdução à programação orientada a objetos (dezembro de 2021 - janeiro de 2022).
+- Monitor de Programação: Contratado pelo Insper para auxiliar os alunos na disciplina de Design de Software, ensinando Python em sala de aula. Também ministrou aulas voluntárias de Python para alunos bolsistas (fevereiro de 2023 - junho de 2023).
+- Líder Residencial Estudantil: Líder do "Toca da Raposa", residência estudantil do Insper. Responsável por gerenciar a convivência de cerca de 40 alunos bolsistas, buscando promover um ambiente confortável e respeitoso. Solucionava problemas e necessidades da residência, organizava eventos e atuava como ponte de comunicação entre a residência e o programa de bolsas do Insper (dezembro de 2022 - junho de 2023).
+- Tutor Particular: Desde o início da graduação, oferece aulas particulares em disciplinas em que possui maior facilidade. Contribui para o aprendizado dos alunos e aprimora habilidades de comunicação (setembro de 2022 - em andamento).
+
+Resumo de premiações: 
+- Medalha de Bronze nas Olimpíadas Brasileiras de Astronomia em 2020.
+- Medalha de Ouro nas Olimpíadas Brasileiras de Geografia em 2019.
+
+Resumo geral: 
+Possuo habilidades em programação em Python, Javascript, CSS, HTML, Pandas e Java. Sou fluente em português e tenho conhecimentos intermediários em inglês. Além disso, destaco minha experiência como pesquisador, participação em projetos extracurriculares, monitoria, liderança residencial e tutoria particular. Busco aplicar meus conhecimentos e habilidades para contribuir de forma significativa em projetos e desafios na área de Engenharia da Computação.

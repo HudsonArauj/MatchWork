@@ -1,0 +1,9 @@
+Resumo demográfico: Cristiano Martins, residente em Campinas - SP, pode ser contatado pelo e-mail cristianomartins0205@gmail.com.
+
+Resumo da formação: Cristiano possui graduação em Engenharia Mecânica-Aeronáutica pelo Instituto Tecnológico de Aeronáutica, concluída em dezembro de 2021. Atualmente, está cursando Ciências da Computação na Universidade Estadual de Campinas.
+
+Resumo profissional: Cristiano realizou um treinamento de desenvolvimento em front-end e back-end para aplicações web como trainee em Desenvolvimento Web na ITA Jr. Além disso, trabalhou como estagiário em Tecnologia na Ewally, atuando como desenvolvedor back-end utilizando Node.JS, AWS, Docker, MySQL, CI/CD e Git. Atualmente, é bolsista BAS (Bolsa auxílio social) no NIED-Unicamp, onde trabalha como desenvolvedor back-end Java, utilizando Springboot e MySQL. Também é bolsista PIBIC na área de cibersegurança, desenvolvendo um programa de análise de ameaças capturadas pelo Fortigate, utilizando ferramentas de Machine Learning. Além disso, é responsável pela gestão do Departamento de Marketing na AAAITA, onde fiscaliza processos criativos e cria novos produtos e campanhas de marketing.
+
+Resumo de premiações: Não foram mencionadas premiações no currículo.
+
+Resumo geral: Cristiano possui habilidades em C, Node.Js, AWS, HTML, CSS, Python, C#, Java, SpringBoot, Docker, Git, MySQL, .NET, R e Microsserviços. Tem experiência em desenvolvimento ágil e possui fluência em inglês. Sua formação acadêmica inclui graduação em Engenharia Mecânica-Aeronáutica e atualmente está cursando Ciências da Computação. Possui experiência como trainee em Desenvolvimento Web, estagiário em Tecnologia e bolsista em projetos de cibersegurança. Além disso, é responsável pela gestão do Departamento de Marketing na AAAITA.

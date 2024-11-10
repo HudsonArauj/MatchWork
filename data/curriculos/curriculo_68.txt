@@ -1,0 +1,26 @@
+Resumo demográfico:
+Nome: António Costa
+Localização: Maceió, Alagoas, Brasil
+Contato: jlgs@ic.ufal.br
+LinkedIn: www.linkedin.com/in/antónio-costa-aa04631bb
+
+Resumo da formação:
+- Bacharelado em Ciência da Computação na Universidade Federal de Alagoas (2018-2025)
+
+Resumo profissional:
+- Estagiário de TI na Secretaria de Estado da Fazenda de Alagoas - Sefaz (maio de 2022 - presente):
+   - Desenvolvimento de software em Python utilizando bancos de dados relacionais SQL para consultas.
+   - Desenvolvimento orientado a objetos e testes automatizados com Selenium.
+
+- Bolsista na Universidade Federal de Alagoas (junho de 2020 - dezembro de 2021):
+   - Atuação como Full Stack em desenvolvimento para o Circuito Penedo de Cinema.
+
+Resumo de premiações:
+- Certificado de Conclusão do Minicurso Python
+- Certificado de Conclusão do Voxy Proficiency Achievement - Intermediate Python
+- Certificado de Conclusão do Minicurso de Ciência de Dados
+
+Resumo geral:
+Sou um estudante de Ciência da Computação com foco em análise de dados e tecnologia. Atualmente, estou como estagiário na SEFAZ-AL, onde aplico meus conhecimentos em projetos de sistemas e análise de dados. Tenho uma formação sólida em eletrônica e estou empenhado em aprimorar minhas habilidades técnicas. Sou dedicado, comunicativo e estou ansioso para contribuir com minha paixão pela tecnologia e meu conhecimento em análise de dados para projetos inovadores.
+
+Em busca de oportunidades desafiadoras, ofereço entusiasmo, habilidades em análise de dados e uma sólida base em Ciência da Computação. Como estagiário comprometido, estou preparado para enfrentar desafios tecnológicos e agregar valor à sua equipe ou organização. Estou animado para colaborar em projetos significativos e impulsionar o progresso por meio do uso inteligente dos dados.

@@ -1,0 +1,27 @@
+Resumo demográfico: 
+Nome: Beatriz Costa
+Idade: Não fornecido
+Cidade: Não fornecido
+Estado: Não fornecido
+País: Não fornecido
+Telefone: (11) 95219-5694
+E-mail: danillooleite647@gmail.com
+
+Resumo da formação:
+- Tecnólogo em Análise e Desenvolvimento de Sistemas - Em Andamento - Senac
+
+Resumo profissional:
+Sou um entusiasta de desenvolvimento de software em busca de minha primeira oportunidade de estágio na área. Possuo sólidos conhecimentos em C#, Java, Python e SQL, com uma base sólida em manipulação de dados, especialmente voltada para Data Science. Sou dedicado, proativo e estou ansioso para aplicar e expandir minhas habilidades no ambiente prático.
+
+Resumo de projetos acadêmicos:
+- Aplicação de Controle de Estoque: Desenvolvimento de aplicação em C# e SQL para controle eficiente de estoque. Funcionalidades incluíam adição de produtos, ajuste de quantidades e geração de relatórios.
+- Registro de Despesas Pessoais: Criação de um aplicativo simples em C# para o registro de despesas pessoais. Permite categorização de gastos e relatórios mensais.
+
+Resumo de certificações:
+- C# Completo: Programação Orientada a Objetos + Projetos / Udemy - 202X
+- Curso C# Essencial / Udemy - 202X
+- Banco de Dados e SQL / Udemy - 202X
+- Microsoft Power BI Para Business Intelligence e Data Science / Data Science Academy - 202X
+
+Resumo geral:
+Possuo habilidades em C#, Java, Python e SQL, com experiência em projetos acadêmicos de controle de estoque e registro de despesas pessoais. Estou cursando Tecnólogo em Análise e Desenvolvimento de Sistemas no Senac. Sou dedicado, proativo e estou em busca de uma oportunidade de estágio para aplicar e expandir minhas habilidades no desenvolvimento de software. Tenho certificações em C# e Banco de Dados, além de conhecimentos em Power BI. Sou fluente em inglês e possuo conhecimentos básicos em espanhol. Para mais informações, acesse meu perfil no LinkedIn: www.linkedin.com/in/dev-danillo-leite.

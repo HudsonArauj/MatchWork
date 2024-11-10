@@ -1,0 +1,13 @@
+Resumo demográfico: Alice Costa, residente em [cidade, estado, país], com idade de [idade]. Contato: [telefone] e e-mail: [e-mail].
+
+Resumo da formação: Atualmente cursando Engenharia da Computação no Insper, com previsão de conclusão em fevereiro de 2022. No terceiro período do curso. Possui fluência em inglês e português.
+
+Resumo profissional: Experiência como aluna da Academia Matematicamente, um renomado curso de matemática voltado para olimpíadas científicas. Durante o período de janeiro de 2020 a novembro de 2021, obteve excelentes resultados, classificando vários alunos para a IMO (Olimpíada Internacional de Matemática) e faculdades prestigiadas ao redor do mundo. 
+
+Atualmente, é fundadora e vice-presidente da Insper Academy, uma entidade criada com o objetivo de elevar o nível de matemática olímpica no Brasil. A Insper Academy oferecerá aulas regulares a partir de 2024, preparando alunos para as principais olimpíadas de matemática do Brasil e do mundo.
+
+Resumo de premiações: Medalha de ouro na Olimpíada Tubarão de Matemática em dezembro de 2020. Medalhista de prata nas Stolimpíadas, uma olimpíada de matemática promovida pela Stone, em novembro de 2021. Recebeu também a medalha de prata nacional na Olimpíada Brasileira de Astronomia em janeiro de 2021. Além disso, conquistou a medalha de bronze na South East Asia Mathematical Olympiad (SEAMO) em novembro de 2021.
+
+Resumo geral: Possui habilidades avançadas em linguagens de programação como Python, Javascript, Java, React, HTML, CSS e VHDL. Tem experiência tanto em front-end quanto em back-end. Domina o uso do MS Office, incluindo Word, PowerPoint e Excel. É uma estudante dedicada e apaixonada por matemática, com um histórico de excelência em olimpíadas científicas. Seu objetivo é continuar aprimorando suas habilidades e contribuir para o avanço da área de Engenharia da Computação.
+
+Total de palavras: 305.

@@ -1,0 +1,63 @@
+Resumo demográfico: 
+Nome: Alexandre Almeida
+Idade: Não fornecido
+Cidade: São Paulo
+Estado: SP
+País: Brasil
+Telefone: +55 82 99936-5462
+E-mail: joaogvr@al.insper.edu.br
+
+Resumo da formação:
+- Insper, São Paulo - SP, Fev 2021 - Jun 2025 (previsto)
+   Graduação em Engenharia da Computação. CR: 9.2/10.0
+
+- HarvardX, São Paulo - SP, Mar 2020 - Jun 2020
+   Introdução às empresas intelectuais de Ciência da Computação e à arte da programação. Carga horária estimada: 12 semanas.
+
+Resumo profissional:
+- Estágio de verão no BTG Pactual, Jul 2023 - Ago 2023
+   Validação de construção de experimentos para modelos de fundação e construção de sistemas de recomendação usando IA generativa e similaridade entre embeddings de clientes. A criação desses modelos é crucial, pois todos os dados sobre o cliente podem ser usados para recomendações, como produtos de fundos de investimento. Área: Aprendizado Profundo, Modelos de Fundação, IA Generativa, Sistemas de Recomendação.
+
+- Estágio de verão no BTG Pactual, Jan 2023 - Fev 2023
+   Construção de um modelo de classificação para transações financeiras entre fundos. O uso do modelo é crucial no dia a dia da empresa, dada a quantidade de 500.000 transações externas que precisam ser classificadas. No momento, o modelo impacta o NAV, distribuição e áreas intermediárias no processo. Área: Aprendizado de Máquina, Finanças para Fundos.
+
+- Pesquisador Científico no CNPq, Ago 2021 - Ago 2022
+   Estudo comparativo de modelos de otimização de agentes autônomos em Aprendizado por Reforço. Área: Aprendizado de Máquina, Aprendizado por Reforço, Algoritmos Genéticos.
+
+- Solução de Caso na Oracle, Jun 2021 - Jul 2021
+   Programa GenO Fast na Oracle. Solução de caso sobre meio ambiente, chamado "Point do Lixo" (@pointdolixo). O caso teve um grande impacto na sustentabilidade, com potencial para alcançar mais de 400.000 pessoas que trabalham na coleta de resíduos sólidos.
+
+- Pesquisador Científico no CNPq, Ago 2023 - Presente
+   Construção de uma nova abordagem para arquiteturas de Neural Radiance Fields para implantação em hardware de baixa potência. Área: Aprendizado Profundo, Neural Radiance Fields.
+
+Resumo de premiações:
+- Math Kangaroo BR
+   Medalha Olímpica de Bronze Nacional - 2017.
+
+- OBR - Olimpíada Brasileira de Robótica
+   Medalha Olímpica de Prata Nacional - 2017, 2016, 2015, 2014.
+   Medalha de Mérito Estadual Olímpico Nacional - 2017, 2016.
+
+- OBA - Olimpíada Brasileira de Astronomia
+   Medalha Olímpica de Prata Nacional - 2017, 2016, 2015.
+
+- ITYM (Sofia, Bulgária) - Torneio Internacional de Jovens Matemáticos
+   Certificado - 2015.
+
+Resumo geral:
+- Idiomas:
+   Português: Nativo
+   Inglês: Intermediário
+
+- Linguagens de programação e tecnologias:
+   Processing: 2 anos
+   C#: 3 meses
+   Javascript: 8 meses
+   SQL: 6 meses
+   Python: 3 anos
+   C++, C: 1 ano
+   Arduino: 4 anos
+
+- Projetos pessoais e atividades de extensão:
+   Sistema de Segurança com Arduino - Nov 2016 - Presente
+   PIF - Introdução à Ciência de Foguetes - Fev 2016 - Dez 2016

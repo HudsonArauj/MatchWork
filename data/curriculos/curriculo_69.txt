@@ -1,0 +1,23 @@
+Resumo demográfico:
+- Nome: Marina Santos
+- Contato: 55 11 974102101 (Mobile), fernandofragassi@gmail.com
+- LinkedIn: www.linkedin.com/in/fernandofragassi
+
+Resumo da formação:
+- Bacharelado em Ciência da Computação na Universidade Municipal de São Caetano do Sul (USCS), de janeiro de 2022 a janeiro de 2025.
+
+Resumo profissional:
+- Estagiário em desenvolvimento com experiência em JavaScript, React, Node.js, Java, Python, Docker, Ticket Management e Jira.
+- Analista de suporte técnico na Milvus, de maio de 2022 a maio de 2023, realizando atendimento ao cliente, análise de problemas, desenvolvimento de recursos, utilização de APIs internas, projetos de melhorias, documentação e testes.
+- Analista de suporte técnico na Consulting Electronics, de junho de 2021 a maio de 2022, realizando troubleshootings, instalação e manutenção de SO e softwares, configuração de redes, backups, documentação e suporte pós-venda.
+- Analista de estoque na Cia. Hering, de setembro de 2017 a janeiro de 2020, com atividades de controle de estoque, auxílio à gerência, recebimento de notas e atendimento interno.
+- Analista de estoque na Eclepsya Cosméticos, de abril de 2017 a agosto de 2017, com atividades de controle de estoque, conferência, pré-venda e controle de planilhas em Excel.
+- Estoquista na Cia. Hering, de setembro de 2016 a dezembro de 2016, com atividades de controle de estoque, fechamento de caixa, auxílio à gerência e atendimento ao público.
+- Atendimento ao cliente na Yum! Brands, de agosto de 2015 a setembro de 2016, com atividades de controle de estoque, fechamento de caixa, auxílio à gerência e atendimento ao público.
+
+Resumo de premiações: Nenhuma informação fornecida.
+
+Resumo geral:
+Profissional de TI com 2 anos de experiência em projetos de infraestrutura e atendimento ao público. Estudante de Ciência da Computação em busca de oportunidades de estágio. Possuo habilidades em JavaScript, suporte técnico e API de Web Services. Sou dedicada, proativa e estou sempre em busca de aprendizado e crescimento profissional.
+
+Total de palavras: 346.

@@ -1,0 +1,9 @@
+Resumo demográfico: Elisa Gomes, desenvolvedora Full-Stack, residente em Rio Claro - SP. Contato: +55 (92) 98132-2384, e-mail: vmhugo00@gmail.com, LinkedIn: https://www.linkedin.com/in/victor-hugo-a847b21b7/.
+
+Resumo da formação: Bacharelado em Ciência da Computação pela Universidade Estadual Paulista (UNESP). Habilidades técnicas incluem .NET CORE, C#, VB.NET, Java, JavaScript, Python, React, Jquery, SQLite, SQL Server Management Studio, PostgreSQL, TortoiseSVN, Git, GitHub, GitLab.
+
+Resumo profissional: Experiência na empresa Info Jr. (Empresa Jr da Unesp) em projetos como o desenvolvimento do site do Centro Acadêmico do curso, utilizando Figma. Participação no CENA da USP, trabalhando com biologia computacional e scraping de dados do NCBI com Python e SQL. Trabalho em projeto legado para multinacional, utilizando VB.NET e SQL, refatorando funcionalidades e otimizando o sistema. Atualmente, envolvida em projeto internacional, utilizando MOSEL, VDL e JS, desenvolvendo novas telas e funcionalidades. Desenvolvimento de API's em .NET e Java para receber dados do cliente.
+
+Resumo de premiações: Vencedora da Hackathon da Magis5 na Semana da Computação da Unesp de Rio Claro (30ª SECComp), com equipe responsável por criar um sistema de marketplace, incluindo diagrama de atividades, documento de requisitos, protótipo do sistema e prototipação no Figma.
+
+Resumo geral: Desenvolvedora Full-Stack com experiência em .NET, React e SQL, além de interesse em aprendizagem de máquina. Habilidosa em resolver problemas e trabalhar em equipe. Busca contribuir para projetos inovadores que melhorem a vida das pessoas por meio da tecnologia. Possui habilidades em sistemas embarcados e interesse em sistemas de recomendação e processamento de linguagem natural.

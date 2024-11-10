@@ -1,0 +1,13 @@
+Resumo demográfico: Francisco Gomes, brasileiro, residente em Manaus, Amazonas. Contato: franciscogomes16@gmail.com, (92) 98210-1120. Perfil no LinkedIn: linkedin.com/in/franciscog/.
+
+Resumo da formação: Atualmente, Francisco está cursando Bacharelado em Engenharia de Software na Universidade Federal do Amazonas, com previsão de conclusão em dezembro de 2024. Além disso, ele está matriculado no curso de Análise e Desenvolvimento de Sistemas na Faculdade Estácio do Amazonas, com previsão de conclusão em junho de 2025.
+
+Resumo profissional: Francisco possui experiência como Desenvolvedor de Software Jr. (Frontend) no Grupo Navegam, onde trabalha com o desenvolvimento de sistemas web utilizando React, TypeScript, SCSS e Axios. Ele também tem conhecimento em Scrum, Code Review, Git Flow, Conventional Commit, Jira, Confluence e Github Projects. Anteriormente, ele atuou como estagiário em Desenvolvimento de Software no mesmo grupo, trabalhando com Vue.js, Styled Components, CSS, Reactjs, Axios e Trello.
+
+Resumo de projetos: Francisco desenvolveu um projeto acadêmico chamado "Determinante de Matriz", onde utilizou a linguagem Java e programação orientada a objetos para calcular a determinante de uma matriz, explorando diferentes estratégias e otimizações. Ele também realizou um projeto chamado "Lista de Filmes", utilizando a linguagem C, estruturas de dados, ponteiros e alocação dinâmica de memória para operações de cadastro e exclusão de títulos em uma loja online de filmes.
+
+Resumo geral: Francisco possui habilidades em Java, C/C++, Python, Javascript, Typescript, React, Vue.js, Nodejs, SQL e LATEX. Ele também possui conhecimento em Jira, Confluence, Trello, Git e Github. Além disso, é fluente em português e inglês.
+
+Com uma sólida formação acadêmica em Engenharia de Software e Análise e Desenvolvimento de Sistemas, juntamente com sua experiência profissional e projetos desenvolvidos, Francisco demonstra habilidades técnicas e conhecimentos relevantes para atuar na área de desenvolvimento de software.
+
+Palavras: 346.

@@ -1,0 +1,20 @@
+Resumo demográfico:
+- Nome: Lúcia Pereira
+- Contato: 45998417222 (Mobile), douglaslinn4@gmail.com
+- LinkedIn: www.linkedin.com/in/douglas-gomes-536a50233
+
+Resumo da formação:
+- Curso Técnico Integrado em Análise e Desenvolvimento de Sistemas na Descomplica Faculdade Digital (Janeiro de 2022 - Julho de 2025)
+- Certificações em Desenvolvimento básico em Java, Introdução ao GIT e ao GITHUB, Introdução a PostgreSQL, Estrutura de dados em Java, Implementando Collections e Streams com Java
+
+Resumo profissional:
+- Experiência como Gerente Financeiro na empresa Favorita, onde mapeei os processos financeiros, identifiquei retrabalho e perda de informações, e implementei um sistema para gerenciamento financeiro, eliminando o uso de planilhas eletrônicas.
+- Experiência como Gerente Geral na empresa Releve, onde colaborei para a diminuição de gastos e aumento de ganhos, identificando os meses de vendas mais baixas, mapeando os custos e otimizando processos, resultando em uma redução de custos em 33% e um impacto nos lucros de 60%.
+- Experiência como Músico na Guarda Mirim de Foz do Iguaçu.
+
+Resumo de premiações: Nenhuma informação fornecida.
+
+Resumo geral:
+Tenho atuado em cargos de liderança, participando do processo de tomada de decisão em situações desafiadoras, demonstrando resiliência e adaptabilidade. Sou comunicativo, colaborativo e tenho facilidade em me adaptar a mudanças. Busco migrar para a área de desenvolvimento, adquirindo conhecimentos em Java, Spring Boot, SQL, DER, Postgres, paradigma orientado a objetos e boas práticas.
+
+Total de palavras: 246.

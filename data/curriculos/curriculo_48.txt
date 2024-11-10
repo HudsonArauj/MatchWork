@@ -1,0 +1,9 @@
+Resumo demográfico: Paula Costa, estudante de Ciência da Computação, residente em São Paulo, SP. Contato: erikbtu2020@gmail.com, (14) 9 9622-2338. Perfil pessoal: Jovem entusiasmada em aperfeiçoar suas habilidades técnicas e interpessoais, com interesse em tecnologia e mercado financeiro.
+
+Resumo da formação: Bolsista integral na primeira turma de Ciência da Computação do INSPER, atualmente no 4º semestre. Ensino Médio concluído no Colégio Embraer Casimiro Montenegro Filho.
+
+Resumo profissional: Estágio de Férias na Genial Investimentos e Bradesco Asset Management. Professora voluntária de programação, ensinando Python. Participação no NASA International Space Apps Challenge, um hackathon. Desenvolvimento do projeto PagPedia, um sistema web utilizando Django, HTML, CSS e metodologias ágeis. Automação de coleta de dados e manipulação de dados para relatórios e pesquisas utilizando Python, R e VBA. Criação de dashboards utilizando Power BI e Python.
+
+Resumo de premiações: 6º colocação na região de São Paulo em um projeto de planejamento e desenvolvimento de um jogo utilizando a biblioteca Pygame.
+
+Resumo geral: Paula Costa é uma estudante de Ciência da Computação com habilidades avançadas em Python, intermediárias em Java, C e Power BI, e conhecimentos básicos em HTML e CSS. Possui experiência em estágios de férias na área financeira, participação em projetos de programação e desenvolvimento de sistemas web. Destaca-se pela automação de processos, manipulação de dados e criação de dashboards. Busca aprimorar suas habilidades e aplicar seus conhecimentos em um ambiente desafiador.

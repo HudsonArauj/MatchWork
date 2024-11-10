@@ -1,0 +1,29 @@
+Resumo demográfico: 
+Nome: Carolina Sousa
+Idade: 23 anos
+Localização: Lages, SC, Brasil
+Telefone: 49999782297
+E-mail: gregory-muniz@hotmail.com
+
+Resumo da formação: 
+- Bacharelado em Análise e Desenvolvimento de Sistemas no Centro Universitário Unifacvest, em Lages, SC (Mai 2022 - Atualmente)
+- Formação em Ciência de Dados na Data Science Academy, com mais de 400 horas de conteúdo imersivo na área (Nov 2022 - Atualmente)
+- Curso de Inglês na English in Brazil Go, com foco na prática e imersão na língua (Nov 2023 - Atualmente)
+
+Resumo profissional: 
+- Assistente de Gerenciamento de Negócios Próprios como autônomo em Lages, SC (2019 - Atualmente)
+- Cientista de Dados em projetos pessoais
+
+Resumo de premiações: 
+- Nenhuma informação fornecida
+
+Resumo geral: 
+Meu objetivo é desenvolver uma carreira como profissional na área de dados, com um forte foco na interpretação e aplicação dos dados para impulsionar a eficiência operacional e estratégica das organizações. Tenho experiência no mundo dos negócios e busco ampliar meus conhecimentos e experiência ao trabalhar em grandes organizações, visando contribuir de forma significativa para o crescimento e sucesso da empresa.
+
+Possuo proficiência em Python e R para análise de dados e construção de modelos de Machine Learning, além de experiência avançada no uso do Power BI para criar visualizações de dados interativas e relatórios informativos. Tenho domínio avançado em SQL para consultas complexas e extração de dados de bases de dados relacionais e não relacionais. Além disso, possuo proficiência em técnicas de Teste de Hipóteses e Inferência Estatística para validar relações entre variáveis e fornecer insights estatisticamente significativos.
+
+Sou altamente habilidosa em comunicação eficaz, capaz de traduzir análises complexas em insights acionáveis. Tenho experiência em atendimento ao cliente, solução de problemas, logística, gerenciamento de estoque, controle financeiro, coleta e análise de dados dos clientes, análise de indicadores-chave de performance (KPIs) e análise do mercado de varejo.
+
+Estou apta a realizar análise exploratória de dados, criar visualizações interativas para identificar padrões e tendências, e desenvolver modelos de previsão de vendas utilizando algoritmos de machine learning. Minha abordagem é fundamentada e quantitativa na tomada de decisões, utilizando métodos estatísticos avançados.
+
+Comunico de forma persuasiva e envolvente, facilitando a tomada de decisões informadas e a implementação de soluções eficazes. Estou comprometida em contribuir para a solução de problemas e o aprimoramento de estratégias, fornecendo insights confiáveis e fundamentados em dados.

@@ -1,0 +1,29 @@
+Resumo demográfico: 
+Nome: Diogo Pereira
+Idade: Não fornecido
+Cidade: Vila Gustavo
+Estado: São Paulo
+País: Brasil
+Telefone: (11) 94683-4638
+E-mail: lucas.gshsj@gmail.com
+
+Resumo da formação:
+- Graduação em Sistemas de Informação na FIAP, com previsão de conclusão em 2026.
+- Curso técnico em Desenvolvimento de Sistemas na ETEC Horácio Augusto da Silveira, concluído em 2022.
+
+Resumo profissional:
+- Experiência em HTML, CSS e JS.
+- Conhecimentos básicos em Java.
+- Familiaridade com o framework Angular.
+- Curso técnico em Desenvolvimento de Sistemas.
+
+Resumo de premiações: 
+Não fornecido.
+
+Resumo geral:
+Diogo Pereira é um estudante de Sistemas de Informação com experiência em HTML, CSS e JS. Possui conhecimentos básicos em Java e é familiarizado com o framework Angular. Concluiu o curso técnico em Desenvolvimento de Sistemas na ETEC Horácio Augusto da Silveira. Busca uma oportunidade de estágio na área de TI, com foco em informática e programação. Possui inglês intermediário.
+
+LinkedIn: www.linkedin.com/in/lucas-galvão-campos-0a56b7206
+
+Observações: 
+- O currículo resumido possui 215 palavras, dentro do limite de 450 palavras estabelecido.

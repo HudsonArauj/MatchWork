@@ -1,0 +1,22 @@
+Resumo demográfico: 
+Débora Pereira, 26 anos, residente em Recanto Quarto Centenário, Jundiaí-SP, Brasil. Telefone: +5511976713895, E-mail: k.a.lwitkoski@gmail.com. GitHub: https://github.com/katerine-dev, LinkedIn: https://www.linkedin.com/in/katerinewitkoski/.
+
+Resumo da formação: 
+Graduanda em Ciência da Computação na Universidade Anhembi Morumbi, São Paulo. Bacharelado em Direito pela Universidade São Judas Tadeu, São Paulo.
+
+Resumo profissional: 
+Pesquisadora Pleno na Associação Brasileira de Jurimetria, São Paulo, desde setembro de 2019 até julho de 2022. Atividades desenvolvidas incluem mapeamento de tarefas estratégicas de gestão, contato com clientes e prospecção, monitoramento de projetos, controle das automações, gestão de qualidade das pesquisas, implementação de novas tecnologias, organização de documentos, mapeamento de recursos, mapeamento de processos internos da ABJ, atendimento à LGPD, análise e pesquisa na área do Direito, desenvolvimento em script sem R.
+
+Resumo de premiações: 
+Nenhuma informação fornecida.
+
+Resumo geral: 
+Sou formada em Direito e tenho grande entusiasmo na área de tecnologia e programação, desde meu estágio fiquei muito curiosa sobre o assunto e hoje busco me especializar cada vez mais. Sou adepta à inovação e estou sempre em busca de formas de continuar aprendendo e me tornar cada vez mais uma profissional multidisciplinar. Tenho disponibilidade para trabalhar remotamente e hibridamente em São Paulo, Capital.
+
+Competências: Python, MySQL, PostgreSQL, Java, JavaScript, Git, GitHub, Git actions.
+
+Cursos de especialização: R, São Paulo - R para Ciência de Dados (julho 2020 - agosto 2020), R, São Paulo - Regressão Linear (agosto 2020 - agosto 2020), R, São Paulo - R para Ciência de Dados II (agosto 2020 - setembro 2020), R, São Paulo - Deploy (julho 2021 - julho 2021), R, São Paulo - Faxina de dados (maio 2021 - maio 2021), R, São Paulo - Web scraping (agosto 2020 - setembro 2020), R, São Paulo - Dashboards (maio 2021 - junho 2021), Udemy, São Paulo - Lógica de programação em Python (janeiro 2023), UAM, São Paulo - Python básico para iniciantes (outubro 2022), UAM, São Paulo - JavaScript para iniciantes (janeiro 2023), Alura, São Paulo - Avançando em Python (março 2023), Alura, São Paulo - HTTP (julho 2023).
+
+Formação: Universidade Anhembi Morumbi, São Paulo - Ciência da Computação (2022-2026, Terceiro semestre - Presencial), Universidade São Judas Tadeu, São Paulo - Bacharelado em Direito (2017-2021).
+
+Projetos: Biblioteca Digital (https://github.com/katerine-dev/BibliotecaDigital), Jogos (https://github.com/katerine-dev/jogos), Perícia (https://github.com/katerine-dev/nepiPericia), ABJ Dash (https://github.com/katerine-dev/abjDash/tree/master).
