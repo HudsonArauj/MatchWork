@@ -5,14 +5,20 @@ from dotenv import load_dotenv
 from groq import Groq
 from langchain_groq import ChatGroq
 
+from uuid import uuid4
+from langchain_core.documents import Document
 
 from src.schemas import Topics, Subjetivas, InputProfile
 
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_core.output_parsers import StrOutputParser
+from langchain_community.vectorstores import FAISS
+from langchain_openai import ChatOpenAI, OpenAIEmbeddings
 
 from fastapi import HTTPException
 import nest_asyncio  # noqa: E402
+
+load_dotenv()
 
 nest_asyncio.apply()
 
@@ -33,6 +39,11 @@ llm = ChatGroq(temperature=0.3, model_name="llama-3.1-70b-versatile")
 #     reader = PdfReader(BytesIO(bucket_content))
 #     return '\n'.join(page.extract_text() for page in reader.pages)
 
+embeddings = OpenAIEmbeddings(model="text-embedding-3-large")
+
+new_vector_store = FAISS.load_local(
+"faiss_index", embeddings, allow_dangerous_deserialization=True
+)
 
 def extract_cv(path: str):
     parsingInstructionsInterviewer = """
@@ -170,3 +181,45 @@ def generate_profile(input: InputProfile)-> str:
     })
 
     return ai_msg
+
+def get_curriculos(job_description, values):
+    
+    job_summarizer = ChatGroq(temperature=0.1, model_name="llama-3.1-70b-versatile")
+
+
+    retriever = new_vector_store.as_retriever(search_kwargs={"k": 10})
+
+    messages = [
+        (
+            "system",
+            "You are a helpful assistant that helps identify the requirements for a job based on a job description and company values. You must give your requirements in the form of best past experiences, temperement and skills that the candidate must have.",
+        ),
+        (
+            "system",
+            "Analyse the job description and values minutely and give the requirements for the job."
+        ),
+        (
+            "system",
+            "Here are the job description and values: {job_description}, {values}"
+        )
+    ]
+    
+    prompt = ChatPromptTemplate.from_messages(messages)
+
+    chain = prompt | job_summarizer | StrOutputParser() | retriever
+    
+    return chain.invoke({"job_description": job_description, "values": values})
+
+
+def upload_cv(answers: str, path: str):
+    """
+    Uploads a CV to the system.
+
+    Args:
+        path (str): Path to the CV file.
+    """
+    new_doc = Document(page_content=answers, metadata={"source": path})
+
+    new_id = str(uuid4())
+    
+    new_vector_store.add_documents(documents=[new_doc], ids=[new_id])
