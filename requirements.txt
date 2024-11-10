@@ -12,3 +12,4 @@ fastembed
 chromadb
 unstructured[md]
 hypercorn
+uvicorn
